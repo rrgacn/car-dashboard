@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/watson-developer-cloud/car-dashboard.git"
+    "url": "https://github.com/rrgacn/car-dashboard.git"
   },
   "license": "Apache-2.0",
   "author": "IBM Corp.",
